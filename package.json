@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "start": "pnpm  --parallel run dev",
+    "build": "pnpm  --parallel run build",
     "dev": "pnpm -r --parallel --filter=./packages/* run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

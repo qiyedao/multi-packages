@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "qiye@qq.com",
+  "author": "qiye",
   "scripts": {
     "dev": "cross-env PORT=8520 umi dev",
     "build": "umi build",
