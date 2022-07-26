@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "wangzhongyong <wzy@kgtdata.com>",
+  "author": "qiye@qq.com",
   "scripts": {
     "dev": " cross-env PORT=8521 umi dev",
     "build": "umi build",
